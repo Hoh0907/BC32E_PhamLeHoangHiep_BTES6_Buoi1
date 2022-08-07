@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\baitapRest"
+		},
+		{
+			"path": "..\\..\\baitapSpread"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "baitapArrowFunc"
+    }
+}
